@@ -6,7 +6,7 @@
 - 😄 Pronouns: ... she shi
 - ⚡ Fun fact: ... I'm lazy
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I+am+Kavisha+Thathsarani ;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I+am+Maheshika+Sandamini ;&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <!---
 MaisieSella/MaisieSella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
