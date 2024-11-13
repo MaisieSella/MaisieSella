@@ -6,7 +6,7 @@
 -  📫 How to reach me ... who knows
 - 😄 Pronouns: ... she shi
 - ⚡ Fun fact: ... I'm lazy
-![Screenshot .](pic/fox.jpg)
+ - ![pic](pic/fox.jpg)
 <p align="center">
 
 </p>
