@@ -6,6 +6,7 @@
 -  📫 How to reach me ... who knows
 - 😄 Pronouns: ... she shi
 - ⚡ Fun fact: ... I'm lazy
+- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 <p align="center">
 
 </p>
