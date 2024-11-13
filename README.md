@@ -1,4 +1,4 @@
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I+am+Maheshi ;&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I+am+Maheshi ;&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 - 👋 Hi, I’m @MaisieSella
 - 👀 I’m interested in Computer and Stuff
 - 🌱 I’m currently learning Computer Science in Plymouth univeersity.
